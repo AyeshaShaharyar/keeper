@@ -1,5 +1,6 @@
 import React from "react";
+import Header from "./Header";
 
 export default function App(){
- return <div>Hello App</div>
+ return <div><Header /></div>
 }
